@@ -1,4 +1,3 @@
-# Diabetes_classifier
 # KNN Classifier Project
 
 ### Overview
