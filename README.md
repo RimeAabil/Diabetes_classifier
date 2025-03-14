@@ -13,3 +13,6 @@ This project implements a K-Nearest Neighbors (KNN) classifier using a dataset t
 - Model evaluation using accuracy, confusion matrix, and other metrics
 
 - Hyperparameter tuning (choice of k value)
+
+### Dataset
+Pima Indians Diabetes Database (available on Kaggle.com)
